@@ -1,0 +1,11 @@
+{
+  "codeowners": ["@dtmichel"],
+  "config_flow": false,
+  "dependencies": [],
+  "documentation": "https://github.com/dtmichel/climeosolutions",
+  "domain": "climeosolutions",
+  "iot_class": "cloud_polling",
+  "name": "Climeo Solutions",
+  "requirements": [],
+  "version": "0.0.1"
+}
